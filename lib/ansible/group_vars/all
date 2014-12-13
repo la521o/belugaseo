@@ -1,0 +1,35 @@
+---
+evolve_version: 1.0.12
+domain:         belugaseo.com
+
+mysql:
+  name:         belugase_wpseo
+  user:         belugase
+  password:     NiNwebdevNiN
+  host:         belugaseo.com
+
+php_settings:
+  # memory_limit:
+
+reserved_memory:
+  # mysql:
+  # system:
+apache_settings:
+  # start_servers:
+  # min_spare_servers:
+  # max_spare_servers:
+  # max_clients:
+  # max_requests_per_child:
+
+mail:
+  postmaster: no-reply@belugaseo.com
+
+iptables:
+  # ipv6: 0
+
+fail2ban:
+  # whitelist:
+  #   - 127.0.0.1/8
+  # ban_time: 600
+  # notification_email: root@localhost
+  # notify_on_ban: 0

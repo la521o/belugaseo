@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "beluga-evolve",
+  "version": "1.0.0",
+  "dependencies": {
+    "evolution-wordpress": "^1.0.12",
+    "wordpress": "4.0.1"
+  }
+}

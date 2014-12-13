@@ -1,0 +1,8 @@
+[local]
+local.belugaseo.com stage=local
+
+[production]
+production.belugaseo.com stage=production
+
+[staging]
+staging.belugaseo.com stage=staging
